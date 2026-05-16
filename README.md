@@ -48,6 +48,6 @@ Fast, responsive dark-themed GUI optimized for low resource usage and smooth per
 
 🚀 Performance Metrics
 Metric	Score	Description
-System Speed	100%	Lightweight FLTK-based architecture
-Data Security	90%	Local isolated storage system
-UI Responsiveness	95%	Native rendering pipeline
+System Speed      [██████████████████████████████] 100% (Lightweight FLTK Core)
+Data Security     [██████████████████████████░░░░] 90%  (Isolated Local DB)
+UI Responsiveness [████████████████████████████░░] 95%  (Native Drawing Engine)
