@@ -1,0 +1,5 @@
+1764724451-4812|Income|50000|salary|mounthly salary|2025-12-03
+1764724487-26054|Expense|21000|shoping|fhoping for winter|2025-12-03
+1764724537-32467|Expense|11000|cpu|cpu buying|2025-12-03
+1769067877-32355|Income|50000|salary|mounth salary|2026-01-22
+1769067894-18635|Expense|20000|ram|sadik ram|2026-01-22
